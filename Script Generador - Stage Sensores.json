@@ -1,0 +1,41 @@
+
+SHEETS
+
+OBJECTS ON SHEETS
+
+DIMENSIONS
+
+MEASURES
+
+VARIABLES
+{"qName":"vVersion","qDefinition":"2.0.23","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"41dff862-e0da-4990-95c2-685f38fe6281","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vConnection","qDefinition":"ALIER_DATA:Microsoft_SQL_Server_(via_Direct_Access_gateway)_SRVINYCOM","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"5d27883d-6f63-4f73-a98e-7ea65477fa8a","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vPath","qDefinition":"ALIER_DATA:DataFiles","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"158dae4c-2af3-4698-bf3d-5930ba8e6f4b","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vTableQVD","qDefinition":"FactDatosSensor","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"be4da321-4e65-467e-baea-5b301395b812","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vStartTime","qDefinition":"4\/7\/2024 14:36:22","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"048249fe-a3eb-4019-98a1-61f55b79927f","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vMessage","qDefinition":"1.0 - Sensor Tables","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"ac9b78a3-0c48-4490-ad56-f10a43bac21c","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vTime","qDefinition":"4\/7\/2024 14:36:22","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"37cca033-b415-4c9f-8d3e-87d938e42879","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vDifTime","qDefinition":"00:00","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"b6286e1d-ba3e-4b99-97f6-10790765a2bb","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vExcluirDudosoCobro","qDefinition":"True","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"6aa1829b-5c20-4b1d-a5fa-6426848e0ced","qType":"variable"},"qData":[]}
+{"qName":"vMesesVentas","qDefinition":"3","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"1cd7fb0b-d50e-4a6b-9698-dfb3506ecdef","qType":"variable"},"qData":[]}
+{"qName":"vDatabase","qDefinition":"ALIER","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"8b6ebf2b-89eb-4de3-b838-dcc03cf3f605","qType":"variable"},"qData":[]}
+{"qName":"vPathExcel","qDefinition":"ALIER_DATA:DataFiles","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"d20c8486-e53d-4ed4-add0-84fb764acefc","qType":"variable"},"qData":[]}
+{"qName":"vFecha","qDefinition":"1\/1\/2020","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"a2a614d3-f0ab-43f6-a84c-7fef68c8feaf","qType":"variable"},"qData":[]}
+{"qName":"vTable","qDefinition":"OOCR","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"1e17a150-b068-46fa-bf5d-2072ffea9327","qType":"variable"},"qData":[]}
+{"qName":"vTableName","qDefinition":"\"ALIER\".\"OOCR\"","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"be424138-0066-400c-bc08-234739983c43","qType":"variable"},"qData":[]}
+{"qName":"vTestMode","qDefinition":"0","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"0959a692-1f52-41ec-94c2-4b6754b08af7","qType":"variable"},"qData":[]}
+{"qName":"vTableCount","qDefinition":"2","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"c37cd771-3853-494c-ac79-e2f9ebaf4ade","qType":"variable"},"qData":[]}
+{"qName":"i","qDefinition":"342","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"d41e1dfb-4e0d-464f-92cf-4c6837df54d5","qType":"variable"},"qData":[]}
+{"qName":"vField","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"0a3d22c5-eead-422a-aecd-9cdfbd13fca4","qType":"variable"},"qData":[]}
+{"qName":"j","qDefinition":"6","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"ba33f155-a5c1-403b-94e6-923eeba70cac","qType":"variable"},"qData":[]}
+{"qName":"vFields","qDefinition":"*","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"45d639dd-28f0-4127-a0a4-c7b4fcc311b4","qType":"variable"},"qData":[]}
+{"qName":"vCalendarCode","qDefinition":"2015","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"982018f3-5ae3-4217-819e-f4d8bc1dfe27","qType":"variable"},"qData":[]}
+{"qName":"vStartWeekend","qDefinition":"7","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"9f9676fe-ff8b-482b-b8f1-a801554f6eb0","qType":"variable"},"qData":[]}
+{"qName":"vEndWeekend","qDefinition":"1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"850ef4c1-36c0-489f-af3c-d8b8d9329c4a","qType":"variable"},"qData":[]}
+{"qName":"vTables","qDefinition":"'RDR1','DLN1','RDN1','INV1','RIN1','RRR1'","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"4c413501-5bfb-44c3-b45e-951f11e446c4","qType":"variable"},"qData":[]}
+{"qName":"vMaxDate","qDefinition":"45474","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"92113a82-7785-4787-b777-a1048ba8641e","qType":"variable"},"qData":[]}
+{"qName":"vMinDate","qDefinition":"43831","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"cccea4f0-e891-4a91-9ee4-e709e345e178","qType":"variable"},"qData":[]}
+{"qName":"vGroupFilter","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"242805f7-c478-4300-9baf-a381ae7159b7","qType":"variable"},"qData":[]}
+{"qName":"vResiduoFilter","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"70bbc3c3-1f0d-4f0d-b7ca-066212e240e3","qType":"variable"},"qData":[]}
+
+FIELDS
